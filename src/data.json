@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Carlos Choca",
+    "sexo": "Masculino",
+    "pais": "Ecuador",
+    "telefono": "+593988050918"
+  },
+  {
+    "nombre": "Ana López",
+    "sexo": "Femenino",
+    "pais": "México",
+    "telefono": "+52 987 654 321"
+  },
+  {
+    "nombre": "John Doe",
+    "sexo": "Masculino",
+    "pais": "Estados Unidos",
+    "telefono": "+1 555 555 5555"
+  },
+  {
+    "nombre": "Jane Doe",
+    "sexo": "Femenino",
+    "pais": "Estados Unidos",
+    "telefono": "+1 555 555 5555"
+  },
+  {
+    "nombre": "Juan Pérez",
+    "sexo": "Masculino",
+    "pais": "México",
+    "telefono": "+52 123 456 789"
+  }
+]
